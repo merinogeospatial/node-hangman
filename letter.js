@@ -18,11 +18,11 @@ const Letter = function(value) {
 
 a = new Letter('a');
 
-result = a.letterAction();
-console.log(result);
-console.log(a.guessed);
+// result = a.letterAction();
+// console.log(result);
+// console.log(a.guessed);
 
-a.check('a');
-console.log(a.guessed);
-console.log(a.letterAction());
+// a.check('a');
+// console.log(a.guessed);
+// console.log(a.letterAction());
 
